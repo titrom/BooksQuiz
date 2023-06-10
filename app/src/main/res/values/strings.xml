@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Book Quiz</string>
+    <string name="play_btn">PLAY</string>
+    <string name="start_title">match the cover of the book with its first line</string>
+    <string name="test_text">текст из книги</string>
+    
+    
+    <string name="text_book_the_pilgrim_progress">As I walk`d through the wilderness of this world, I lighted on a certain place where was a Den, and I laid me down in that place to sleep;</string>
+    <string name="text_book_robinson_crusoe"> I WAS born in the year 1632, in the city of York, of a good family, though not of that country, my father being a foreigner of Bremen, who settled first at Hull.</string>
+    <string name="text_book_gulliver_travels"> My father had a small estate in Nottinghamshire: I was the third of five sons.</string>
+    
+    <string name="text_book_nightmare_abbey">Nightmare Abbey, a venerable family-mansion, in a highly picturesque state of semi-dilapidation, pleasantly situated on a strip of dry land between the sea and the fens, at the verge of the county of Lincoln, had the honour to be the seat of Christopher Glowry, Esquire.</string>
+    <string name="text_book_the_gold_bug">Many years ago, I contracted an intimacy with a Mr. William Legrand.</string>
+    <string name="text_book_the_life_and_opinions_of_tristram_shandy_gentleman">I wish either my father or my mother, or indeed both of them, as they were in duty both equally bound to it, had minded what they were about when they begot me;</string>
+    <string name="text_book_emma">...Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.</string>
+    <string name="text_book_frankenstein">You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.</string>
+    <string name="text_book_the_history_of_tom_jones_a_foundling">An author ought to consider himself, not as a gentleman who gives a private or eleemosynary treat, but rather as one who keeps a public ordinary, at which all persons are welcome for their money.</string>
+    <string name="book_clarissa">I am extremely concerned, my dearest friend, for the disturbances that have happened in your family.</string>
+</resources>
